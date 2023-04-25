@@ -4,7 +4,7 @@ Hi 👋 My name is Daan De Wilde
 Student @ HoWest MCT (AI Engineer)
 --------------------
 
-I am a 21 year old student from East-Flanders (Belguim). At this moment i'm in my third year Multimedia & Creative Technologies at HoWest Kortrijk. I'm specializing in artificial intelligence.
+I am a student from East-Flanders (Belguim). At this moment i'm in my third year Multimedia & Creative Technologies at HoWest Kortrijk. I'm specializing in artificial intelligence.
 
 * 🌍  I'm based in Zele, East-Flanders Belgium
 * ✉️  You can contact me at [daan.de.wilde@student.howest.be](mailto:daan.de.wilde@student.howest.be)
